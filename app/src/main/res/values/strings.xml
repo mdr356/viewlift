@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SNAGFILMS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="error_loading">Error Loading Content</string>
+
+    <string name="home">HOME</string>
+    <string name="movies">MOVIES</string>
+    <string name="shows">SHOWS</string>
+
+    <string name="action_logging">CURRENTLY LOGGED OUT</string>
+</resources>
