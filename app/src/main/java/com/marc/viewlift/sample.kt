@@ -2,11 +2,12 @@
 class MySampleViewModel(
   private val repository: MovieRepository
 ): ViewModel()  {
-  fun saveUser(user: User) {
+  
+  fun saveUserName(userName: String) {
     repository.saveUser(user)
   }
   
-  fun getUsers(): LiveData<List<User>> {
-    return users
+  fun getUser(): LiveData<String> {
+    return "marc
   }
 }
